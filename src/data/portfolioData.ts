@@ -98,7 +98,7 @@ export const PERSONAL_INFO = {
   email: "amitkush394@gmail.com",
   phone: "+91 8292011844",
   github: "https://github.com/amitkush01",
-  linkedin: "https://linkedin.com",
+  linkedin: "https://linkedin.com/in/am444",
   twitter: "https://x.com",
   education: {
     degree: "Bachelor of Technology in Computer Science & Engineering",
